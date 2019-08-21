@@ -1,0 +1,30 @@
+c:\users\ace\documents\visual studio 2015\Projects\Client_Final\Client_Final\bin\Debug\Client_Final.exe.config
+c:\users\ace\documents\visual studio 2015\Projects\Client_Final\Client_Final\bin\Debug\Client_Final.exe
+c:\users\ace\documents\visual studio 2015\Projects\Client_Final\Client_Final\bin\Debug\Client_Final.pdb
+c:\users\ace\documents\visual studio 2015\Projects\Client_Final\Client_Final\obj\Debug\Client_Final.csprojResolveAssemblyReference.cache
+c:\users\ace\documents\visual studio 2015\Projects\Client_Final\Client_Final\obj\Debug\Client_Final.Form1.resources
+c:\users\ace\documents\visual studio 2015\Projects\Client_Final\Client_Final\obj\Debug\Client_Final.Properties.Resources.resources
+c:\users\ace\documents\visual studio 2015\Projects\Client_Final\Client_Final\obj\Debug\Client_Final.csproj.GenerateResource.Cache
+c:\users\ace\documents\visual studio 2015\Projects\Client_Final\Client_Final\obj\Debug\Client_Final.exe
+c:\users\ace\documents\visual studio 2015\Projects\Client_Final\Client_Final\obj\Debug\Client_Final.pdb
+C:\Users\e.ches\Desktop\Client_Final\Client_Final\bin\Debug\Client_Final.exe.config
+C:\Users\e.ches\Desktop\Client_Final\Client_Final\obj\Debug\Client_Final.exe
+C:\Users\e.ches\Desktop\Client_Final\Client_Final\obj\Debug\Client_Final.pdb
+C:\Users\e.ches\Desktop\Client_Final\Client_Final\bin\Debug\Client_Final.exe
+C:\Users\e.ches\Desktop\Client_Final\Client_Final\bin\Debug\Client_Final.pdb
+C:\Users\e.ches\Desktop\Client_Final\Client_Final\obj\Debug\Client_Final.csprojResolveAssemblyReference.cache
+C:\Users\e.ches\Desktop\Client_Final\Client_Final\obj\Debug\Client_Final.Form1.resources
+C:\Users\e.ches\Desktop\Client_Final\Client_Final\obj\Debug\Client_Final.Properties.Resources.resources
+C:\Users\e.ches\Desktop\Client_Final\Client_Final\obj\Debug\Client_Final.csproj.GenerateResource.Cache
+C:\Users\Ace\Documents\Visual Studio 2015\Projects\Final Server C#\Client_Final\Client_Final\bin\Debug\Client_Final.exe.config
+C:\Users\Ace\Documents\Visual Studio 2015\Projects\Final Server C#\Client_Final\Client_Final\obj\Debug\Client_Final.exe
+C:\Users\Ace\Documents\Visual Studio 2015\Projects\Final Server C#\Client_Final\Client_Final\obj\Debug\Client_Final.pdb
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Client_Final\Client_Final\bin\Debug\Client_Final.exe.config
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Client_Final\Client_Final\obj\Debug\Client_Final.exe
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Client_Final\Client_Final\obj\Debug\Client_Final.pdb
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Client_Final\Client_Final\bin\Debug\Client_Final.exe
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Client_Final\Client_Final\bin\Debug\Client_Final.pdb
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Client_Final\Client_Final\obj\Debug\Client_Final.csprojResolveAssemblyReference.cache
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Client_Final\Client_Final\obj\Debug\Client_Final.Form1.resources
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Client_Final\Client_Final\obj\Debug\Client_Final.Properties.Resources.resources
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Client_Final\Client_Final\obj\Debug\Client_Final.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+c:\users\ace\documents\visual studio 2015\Projects\Server_Final\Server_Final\bin\Debug\Server_Final.exe.config
+c:\users\ace\documents\visual studio 2015\Projects\Server_Final\Server_Final\obj\Debug\Server_Final.csprojResolveAssemblyReference.cache
+c:\users\ace\documents\visual studio 2015\Projects\Server_Final\Server_Final\bin\Debug\Server_Final.exe
+c:\users\ace\documents\visual studio 2015\Projects\Server_Final\Server_Final\bin\Debug\Server_Final.pdb
+c:\users\ace\documents\visual studio 2015\Projects\Server_Final\Server_Final\obj\Debug\Server_Final.exe
+c:\users\ace\documents\visual studio 2015\Projects\Server_Final\Server_Final\obj\Debug\Server_Final.pdb
+C:\Users\e.ches\Desktop\Server_Final\Server_Final\bin\Debug\Server_Final.exe.config
+C:\Users\e.ches\Desktop\Server_Final\Server_Final\bin\Debug\Server_Final.exe
+C:\Users\e.ches\Desktop\Server_Final\Server_Final\bin\Debug\Server_Final.pdb
+C:\Users\e.ches\Desktop\Server_Final\Server_Final\obj\Debug\Server_Final.csprojResolveAssemblyReference.cache
+C:\Users\e.ches\Desktop\Server_Final\Server_Final\obj\Debug\Server_Final.exe
+C:\Users\e.ches\Desktop\Server_Final\Server_Final\obj\Debug\Server_Final.pdb
+C:\Users\Ace\Documents\Visual Studio 2015\Projects\Final Server C#\Server_Final\Server_Final\bin\Debug\Server_Final.exe.config
+C:\Users\Ace\Documents\Visual Studio 2015\Projects\Final Server C#\Server_Final\Server_Final\obj\Debug\Server_Final.exe
+C:\Users\Ace\Documents\Visual Studio 2015\Projects\Final Server C#\Server_Final\Server_Final\obj\Debug\Server_Final.pdb
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Server_Final\Server_Final\bin\Debug\Server_Final.exe.config
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Server_Final\Server_Final\obj\Debug\Server_Final.exe
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Server_Final\Server_Final\obj\Debug\Server_Final.pdb
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Server_Final\Server_Final\bin\Debug\Server_Final.exe
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Server_Final\Server_Final\bin\Debug\Server_Final.pdb
+E:\Elena\Work-Search\Projects\C# Remote Text File Editor (Client&Server)\Server_Final\Server_Final\obj\Debug\Server_Final.csprojResolveAssemblyReference.cache
