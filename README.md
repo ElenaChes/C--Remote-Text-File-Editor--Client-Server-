@@ -1,4 +1,4 @@
-# Remote File Editor.
+# Remote File Editor
 
 <img align="right" style="width:300px; height:auto;" src="https://github.com/ElenaChes/Csharp-Remote-Text-File-Editor--Client-Server/assets/54331769/e6d880dc-e91d-4ac6-8573-655af068ac02">
 
